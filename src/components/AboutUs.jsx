@@ -6,7 +6,7 @@ import about4 from '../assets/about-image-4.jpg';
 
 function AboutUs() {
   return (
-      <section className="p-8 px-2 mt-20 flex md:flex-row flex-col justify-center">
+      <section id="about us" className="p-8 px-2 mt-20 flex md:flex-row flex-col justify-center">
           <article className="order-2 md:order-1 mt-14 md:mt-3 w-full md:w-[30%]">
             <h2 className="text-[#4a3daf] mx-auto w-max px-8 py-2 border-[0.15rem] rounded-full text-xl font-bold tracking-wider border-pink-500 mb-10">About Us</h2>
             <p className=" text-justify text-lg">

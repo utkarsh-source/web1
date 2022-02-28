@@ -17,7 +17,7 @@ const listItem = [
 
 function Msp() {
   return (
-      <section className="px-2 md:flex-row flex-col mt-20 flex justify-center">
+      <section id="msp" className="px-2 md:flex-row flex-col mt-20 flex justify-center">
           <article className="order-2 md:order-1 mt-16 md:mt-3 w-full md:w-[40%]">
             <h2 className="text-[#4a3daf] mx-auto w-max px-8 py-2 border-[0.15rem] rounded-full text-xl font-bold tracking-wider border-pink-500 mb-10">MSP - Managed Service Provider</h2>
               <ul>
